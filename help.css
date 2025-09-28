@@ -1,0 +1,39 @@
+body {
+	background-color: #301934;
+}
+
+h1 {
+	color: white;
+	font-family: "Times New Roman", "Arial";
+}
+
+h2 {
+	color: white;
+	font-family: "Times New Roman", "Arial";
+}
+
+p {
+	font-family: "Times New Roman", "Arial";
+	font-size: 22px;
+	color: #FFBF00;
+}
+
+button {
+	background-color: #04AA6D;
+  	border: none;
+  	color: white;
+  	padding: 20px 32px;
+  	text-align: center;
+  	text-decoration: none;
+	display: block;
+	margin: auto;
+  	font-size: 16px;
+  	cursor: pointer;	
+	width: 150px;
+	height: 55px;
+}
+
+table, tr, td {
+	border:1px solid white;
+	color : #FFBF00;
+}
