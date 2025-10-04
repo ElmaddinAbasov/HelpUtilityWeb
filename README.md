@@ -60,11 +60,11 @@
 
 ## При нажатии кнопки glossary выдается определение ключевых слов и терминов, которые используются в языке JavaScript.
 
-<img width="1919" height="1048" alt="Screenshot 2025-10-04 132202" src="https://github.com/user-attachments/assets/76f68169-55cd-4181-975a-52d936379956" />
+<img width="1919" height="1070" alt="Screenshot 2025-10-04 172049" src="https://github.com/user-attachments/assets/6c8189c2-4712-4ab3-b1bf-9fd761f36df7" />
 
-## При нажати кнопки usage выдаются примеры использования ключевых слов и конструкция языка.
+## При нажати кнопки usage выдаются примеры использования ключевых слов и конструкций языка.
 
-<img width="1915" height="1077" alt="Screenshot 2025-10-04 132318" src="https://github.com/user-attachments/assets/b76b5dbd-357b-40cb-a1e9-f0112faf55bf" />
+<img width="1911" height="1084" alt="Screenshot 2025-10-04 172134" src="https://github.com/user-attachments/assets/fecdac9e-9d79-42c3-88f7-8de2e82830f8" />
 
 # Завершение
 И в завершении, можно сказать что утилита help - это интерактивная система, которая помогает новичку в изучении языка JavaScript, предоставляя ему различную информацию. Уверен, что время затраченное на создание данной утилиты принесет пользу новичкам.
