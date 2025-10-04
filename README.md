@@ -26,11 +26,11 @@
 
 # Общий вид страниц 
 
-**стартовая страница**
+##Cтартовая страница
 
 <img width="1912" height="1084" alt="Screenshot 2025-10-04 130407" src="https://github.com/user-attachments/assets/25b31a43-5633-4fb4-83f8-930f6864643f" />
 
-**после перехода по ссылке Visit Help Today**
+##После перехода по ссылке Visit Help Today
 
 <img width="1919" height="1088" alt="Screenshot 2025-10-04 130537" src="https://github.com/user-attachments/assets/893f3931-6bae-435d-baca-a1a0e60dfc46" />
 
@@ -54,15 +54,15 @@
 2. glossary
 3. usage
 
-##**При нажати на кнопку starter вам выдается список книг, туториалов и официальная документация языка JavaScript.**
+##При нажати на кнопку starter вам выдается список книг, туториалов и официальная документация языка JavaScript.**
 
 <img width="1919" height="1088" alt="Screenshot 2025-10-04 131747" src="https://github.com/user-attachments/assets/46135381-7cda-4d67-96ec-26ff00b2a867" />
 
-##**При нажатии кнопки glossary выдается определение ключевых слов и терминов, которые используются в языке JavaScript.**
+##При нажатии кнопки glossary выдается определение ключевых слов и терминов, которые используются в языке JavaScript.**
 
 <img width="1919" height="1048" alt="Screenshot 2025-10-04 132202" src="https://github.com/user-attachments/assets/76f68169-55cd-4181-975a-52d936379956" />
 
-##**При нажати кнопки usage выдаются примеры использования ключевых слов и конструкция языка.**
+##При нажати кнопки usage выдаются примеры использования ключевых слов и конструкция языка.**
 
 <img width="1915" height="1077" alt="Screenshot 2025-10-04 132318" src="https://github.com/user-attachments/assets/b76b5dbd-357b-40cb-a1e9-f0112faf55bf" />
 
